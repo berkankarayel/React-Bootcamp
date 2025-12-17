@@ -1,0 +1,40 @@
+.player-main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.player {
+    width: 230px;
+    height: 340px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 12px;
+}
+.title-a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.player-mevki{
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     text-align: center;
+} 
+.price {
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     color: red;
+     text-align: center;
+     padding-right: 25px;
+}
+
+.link{
+    font-size: 12px;
+    text-decoration: none;
+}
