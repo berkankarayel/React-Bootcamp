@@ -10,9 +10,9 @@ const {id,name,position,price,link,image} = player;
 
                <img src={image} width={230} height={150}/>
                <p className='title-a'>{name} </p>
-                <p className='player-mevki'>{position} </p>
-                 <p className='price'>{price} </p>
-                <a className='link' href={link}>Siteye Git</a>
+               <p className='player-mevki'>{position} </p>
+               <p className='price'>{price} </p>
+               <a className='link' href={link}>Siteye Git</a>
     </div>
 
   )
