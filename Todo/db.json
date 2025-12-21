@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "React öğren",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Todo projesi yap",
+      "completed": false
+    },
+    {
+      "id": "4f9f",
+      "title": "angular",
+      "completed": false
+    }
+  ]
+}
